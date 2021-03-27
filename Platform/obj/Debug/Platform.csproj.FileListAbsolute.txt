@@ -1,0 +1,7 @@
+C:\Users\vinic\Desktop\Platform\Platform\Platform\bin\Debug\Platform.exe.config
+C:\Users\vinic\Desktop\Platform\Platform\Platform\bin\Debug\Platform.exe
+C:\Users\vinic\Desktop\Platform\Platform\Platform\bin\Debug\Platform.pdb
+C:\Users\vinic\Desktop\Platform\Platform\Platform\obj\Debug\Platform.csprojAssemblyReference.cache
+C:\Users\vinic\Desktop\Platform\Platform\Platform\obj\Debug\Platform.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Platform\Platform\Platform\obj\Debug\Platform.exe
+C:\Users\vinic\Desktop\Platform\Platform\Platform\obj\Debug\Platform.pdb
